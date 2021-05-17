@@ -1,0 +1,24 @@
+{
+  "name": "privateqrtbot",
+  "version": "1.0.0",
+  "description": "epic twitter bot",
+  "main": "index.js",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "twitter-lite": "^0.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glazelf/PrivateQRTBot.git"
+  },
+  "author": "Glaze",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Glazelf/PrivateQRTBot/issues"
+  },
+  "homepage": "https://github.com/Glazelf/PrivateQRTBot#readme"
+}
